@@ -1,6 +1,6 @@
 # Gujarat Trip - 2024
 
-- [ ] Blog
+- [ ] Blog - Places, Routine, Itinerary
 - [ ] Pics
 - [ ] Route
 - [ ] Experience
